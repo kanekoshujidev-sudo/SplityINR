@@ -1,12 +1,12 @@
-# Privacy Policy for SplitBillINR
+# Privacy Policy for Splity INR
 
-**Last updated: [DATE]**
+**Last updated: September 27, 2026**
 
-This Privacy Policy describes how SplitBillINR ("we", "our", or "the app") handles information when you use our mobile application.
+This Privacy Policy describes how Splity INR ("we", "our", or "the app") handles information when you use our mobile application.
 
 ## No Account Required
 
-SplitBillINR does not require you to create an account or log in. We do not collect your name, email address, phone number, or any other personal identification information to use the core features of the app.
+Splity INR does not require you to create an account or log in. We do not collect your name, email address, phone number, or any other personal identification information to use the core features of the app.
 
 ## No Data Retention
 
