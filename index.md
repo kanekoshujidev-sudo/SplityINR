@@ -44,4 +44,4 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**[YOUR CONTACT EMAIL ADDRESS]**
+**kaneko.shuji.dev@gmail.com**
